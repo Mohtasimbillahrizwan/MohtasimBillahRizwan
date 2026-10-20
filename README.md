@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Mohtasimbillahrizwan/MohtasimBillahRizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohtasim Rizwan 👋
 
-Here are some ideas to get you started:
+Software and technology enthusiast interested in web development, databases, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+
+Visit [Reeltic.com](https://www.reeltic.com/) to explore the website and learn more about the platform.
+
+## 🛠️ Technical Interests
+
+- Web development
+- .NET and C#
+- SQL Server and Oracle
+- Azure and cloud technologies
+
+## 🔗 Connect
+
+- [Reeltic — Official Website](https://www.reeltic.com/)
